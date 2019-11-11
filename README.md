@@ -17,8 +17,8 @@
 ## Screenshots:
 
 <div>
-<img src = "./Screenshots/"home-pic-playmode-mythird-addnumbers-cs-nima.jpg" width="500">
-</div>
+<img src = "./Screenshots/"home-pic-playmode-mythird-addnumbers-cs-nima.JPG width="500">
+
 	
 
 ## Lessons Learned:
@@ -27,4 +27,5 @@
 * Formatting with Markdown
 * Usage of strings and variables
 
+</div>
 ### Copyright by nima
