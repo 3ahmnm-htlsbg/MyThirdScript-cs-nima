@@ -17,7 +17,7 @@
 ## Screenshots:
 
 <div>
-<img src = "./Screenshots/"home-pic-playmode-mythird-addnumbers-cs-nima.JPG width="500">
+<img src = "./Screenshots/"home-pic-playmode-mythirdscript-addnumbers-cs-nima.JPG" width="500">
 
 	
 
